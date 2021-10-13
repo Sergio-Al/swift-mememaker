@@ -13,6 +13,7 @@
 		49D6D2A8271759790061EEBA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49D6D2A6271759790061EEBA /* Main.storyboard */; };
 		49D6D2AA2717597A0061EEBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49D6D2A92717597A0061EEBA /* Assets.xcassets */; };
 		49D6D2AD2717597A0061EEBA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49D6D2AB2717597A0061EEBA /* LaunchScreen.storyboard */; };
+		49D6D2B5271768E10061EEBA /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D6D2B4271768E10061EEBA /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		49D6D2A92717597A0061EEBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49D6D2AC2717597A0061EEBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49D6D2AE2717597A0061EEBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49D6D2B4271768E10061EEBA /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				49D6D2A92717597A0061EEBA /* Assets.xcassets */,
 				49D6D2AB2717597A0061EEBA /* LaunchScreen.storyboard */,
 				49D6D2AE2717597A0061EEBA /* Info.plist */,
+				49D6D2B4271768E10061EEBA /* CaptionOption.swift */,
 			);
 			path = Mememaker;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				49D6D2A5271759790061EEBA /* ViewController.swift in Sources */,
+				49D6D2B5271768E10061EEBA /* CaptionOption.swift in Sources */,
 				49D6D2A1271759790061EEBA /* AppDelegate.swift in Sources */,
 				49D6D2A3271759790061EEBA /* SceneDelegate.swift in Sources */,
 			);
